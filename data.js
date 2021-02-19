@@ -2,7 +2,7 @@ const albums = [
     {
         id: 1,
         name: 'Channel Orange',
-        image: 'channel-orange.jpg',
+        image: 'https://media.pitchfork.com/photos/5929be57c0084474cd0c2e8c/1:1/w_600/45e3c196.jpeg',
         description: 'The debut studio album by American R&B singer and songwriter Frank Ocean',
         category: 'Alternative R&B',
         price: 10,
